@@ -47,3 +47,16 @@ body {
 body {
     text-shadow: 8px 5px 3px #404040, 5px 5px 10px #000000;
 }
+
+.bigtitle {
+     /**    padding-left:15%;***/ 
+        padding-top: 20%;
+
+color: white; 
+font-family: 'Trocchi', serif; 
+font-size: 1500%; 
+font-weight: normal; 
+margin: 0;
+
+/*line-height: 1.0em;*/
+}
